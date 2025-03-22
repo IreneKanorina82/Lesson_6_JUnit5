@@ -1,3 +1,4 @@
+
 public class numberFactorial {
     public static void numberFactorial(int Number) {
         int newNumber = Number;

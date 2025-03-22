@@ -1,9 +1,10 @@
+
 public class TestcompareNumbers {
     @org.junit.jupiter.api.Test
     public void numbers() {
         compareNumbers r = new compareNumbers();
         int a = 5;
         int b = 6;
-        System.out.println(r);
+        r.compareNumbers(a,b);
     }
 }
