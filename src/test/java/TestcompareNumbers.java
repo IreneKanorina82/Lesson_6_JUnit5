@@ -4,6 +4,6 @@ public class TestcompareNumbers {
         compareNumbers r = new compareNumbers();
         int a = 5;
         int b = 6;
-        System.out.println(r);
+        r.compareNumbers(a,b);
     }
 }

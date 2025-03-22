@@ -4,6 +4,6 @@ public class TestcounterNumbers {
         counterNumbers sign = new counterNumbers();
         int a = 5;
         int b = 6;
-        System.out.println(sign);
+        sign.counterNumberss(a,b, "-");
     }
 }

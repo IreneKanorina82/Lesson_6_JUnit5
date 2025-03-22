@@ -4,6 +4,6 @@ public class TesttriangleSquare {
         triangleSquare S = new triangleSquare();
         int a = 5;
         int h = 6;
-        System.out.println(S);
+        S.triangleSquare(a,h);
     }
 }
