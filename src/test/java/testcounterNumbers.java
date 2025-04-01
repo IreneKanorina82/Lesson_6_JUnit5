@@ -1,5 +1,5 @@
 
-public class TestcounterNumbers {
+public class testcounterNumbers {
     @org.junit.jupiter.api.Test
     public void numbers() {
         counterNumbers sign = new counterNumbers();

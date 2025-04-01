@@ -1,5 +1,5 @@
 
-public class TesttriangleSquare {
+public class testtriangleSquare {
     @org.junit.jupiter.api.Test
     public void numbers() {
         triangleSquare S = new triangleSquare();

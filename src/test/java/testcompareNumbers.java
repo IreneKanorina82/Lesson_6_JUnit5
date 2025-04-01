@@ -1,5 +1,5 @@
 
-public class TestcompareNumbers {
+public class testcompareNumbers {
     @org.junit.jupiter.api.Test
     public void numbers() {
         compareNumbers r = new compareNumbers();

@@ -1,5 +1,5 @@
 
-public class TestnumberFactorial {
+public class testnumberFactorial {
     @org.junit.jupiter.api.Test
     public void numbers() {
         numberFactorial newNumber = new numberFactorial();
